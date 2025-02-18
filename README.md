@@ -14,32 +14,30 @@ _Collaborate and work together on GitHub._
 </header>
 
 <!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
+  <<< Author notes: Step 4 >>>
+  Start this step by acknowledging the previous step.
+  Define terms and link to docs.github.com.
 -->
 
-## Step 1: Open a pull request
+## Step 4: Suggest changes
 
-_Welcome to "Review pull requests"! :wave:_
+_Nice work reviewing that pull request :sparkles:_
 
-Let's get started by opening a pull request.
+Now that you have explored the different ways you can review a pull request it is time to learn how to use _suggest changes_.
 
-**What is a pull request?**: Collaboration happens on a pull request. The pull request shows the changes in your branch to other people. This pull request is going to keep the changes you just made on your branch and propose applying them to the `main` branch.
+**What is _suggest changes_?**: This feature enables you to recommend a change to a pull request that the author can commit with the push of a button.
 
-### :keyboard: Activity: Create a pull request
+### :keyboard: Activity: Suggest changes
 
-1. Click on the **Pull requests** tab in your repository.
-2. Click **New pull request**.
-3. In the **base:** dropdown, make sure **main** is selected.
-4. Select the **compare:** dropdown, and click `update-game`.
-5. Click **Create pull request**.
-6. Enter a title for your pull request: `Update the game over message`.
-7. Enter a description for your pull request: `Update the game over message so people know how to play again!`
-8. Click **Create pull request**.
-9. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+1. On the pull request, click **Files changed**.
+1. Find the `index.html` changes.
+1. Hover your cursor next to the line numbers on the left side of the page.
+1. Click the blue plus icon.
+1. After the comment form appears, click the **Add a suggestion** button. <br>
+   ![add-a-suggestion-button](https://user-images.githubusercontent.com/97056108/184449714-61e8ee51-824a-48c1-9436-2dfd67f2c070.png)
+1. Edit the suggestion.
+1. Click **Add a single comment**.
+1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
 
 <footer>
 
